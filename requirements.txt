@@ -1,0 +1,8 @@
+VS code extensions:
+python
+Pylance
+
+packages:
+python
+fastapi
+uvicorn
