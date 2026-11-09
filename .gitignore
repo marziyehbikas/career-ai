@@ -4,3 +4,26 @@ __pycache__/
 .venv/
 venv/
 .vscode/
+
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+
+# Uploaded resumes (may contain personal information)
+uploads/resumes/
+
+# Testing cache
+.pytest_cache/
+
+# Log files
+*.log
