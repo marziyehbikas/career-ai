@@ -74,8 +74,7 @@ career-ai-backend/
     └── test_text_extraction.py
 ```
 
-_This is a representative structure. If your repository contains
-additional files or folders, update this tree to match it._
+\_
 
 ## Requirements
 
